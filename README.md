@@ -8,7 +8,7 @@
   <img alt="Made by Hosana Barcelos" src="https://img.shields.io/badge/made%20by- HOSANA BARCELOS -%15C3D6?style=flat-square&color=32B768&labelColor=000"><br/>
 </p>
 
-O **PlantManager** é uma aplicação desenvolvida durante a Next Level Week 05 da [Rocketseat](https://rocketseat.com.br/) que ajuda a gerenciar suas plantas. Receba auxilio para cada plantinha com informações adequadas e lembretes.
+O **PlantManager** é uma aplicação desenvolvida durante a Next Level Week 05 da [Rocketseat](https://rocketseat.com.br/) que ajuda a gerenciar suas plantas. Receba auxílio para cada plantinha com informações adequadas e lembretes.
 
 ## Protótipo do Projeto
 
