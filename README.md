@@ -5,7 +5,8 @@
 </h1>
 
 <p align="center">
-  <img alt="Made by Hosana Barcelos" src="https://img.shields.io/badge/made%20by- HOSANA BARCELOS -%15C3D6?style=flat-square&color=32B768&labelColor=000"><br/>
+    <img src="https://github.com/hosanabarcelos/plantManager-nlw0.5/blob/main/src/assets/plantmanager.png"/>
+     <img alt="Made by Hosana Barcelos" src="https://img.shields.io/badge/made%20by- HOSANA BARCELOS -%15C3D6?style=flat-square&color=32B768&labelColor=000">
 </p>
 
 O **PlantManager** é uma aplicação desenvolvida durante a Next Level Week 05 da [Rocketseat](https://rocketseat.com.br/) que ajuda a gerenciar suas plantas. Receba auxílio para cada plantinha com informações adequadas e lembretes.
