@@ -26,6 +26,5 @@ Tecnologias utilizadas no desenvolvimento do projeto:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Expo](https://expo.io/)
-- [React Navigation](https://reactnavigation.org/)
 
 Feito com :green_heart: by [Hosana Barcelos](https://github.com/hosanabarcelos).
